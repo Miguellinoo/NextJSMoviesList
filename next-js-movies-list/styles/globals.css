@@ -14,3 +14,38 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.myBG{
+  height: 100vh;
+  background: url('../assets/images/foto.png');
+ }
+ .htmlAll{
+  background-color: #f6ddb9;
+ }
+ 
+ .intro{
+  height: 30%;
+  display: flex;
+  justify-content:  center;
+  align-items: center;
+ 
+ }
+ 
+ .title{
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1;
+  text-shadow: 2px 2px black;
+  letter-spacing: 3px;
+  color: white;
+ }
+ 
+ .trending{
+  height: auto;
+  background: url('../assets/images/foto.png');
+ }
+ .movieImage{
+  height: auto;
+  background: transparent;
+ }
+  
